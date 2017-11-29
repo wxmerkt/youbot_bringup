@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>youbot_bringup</name>
+  <version>0.0.0</version>
+  <description>The youbot_bringup package</description>
+
+  <maintainer email="w.merkt+oss@gmail.com">Wolfgang Merkt</maintainer>
+  <license>TODO</license>
+
+  <!-- <url type="website">http://wiki.ros.org/ipab_youbot_config</url> -->
+  <exec_depend>youbot_driver_ros_interface</exec_depend>
+  <exec_depend>teleop_twist_joy</exec_depend>
+  <buildtool_depend>catkin</buildtool_depend>
+</package>
